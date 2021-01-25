@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "Redmi 9",
+      "category": "Mobiles",
+      "productId": "Redme_0125",
+      "description": "48MP quad rear camera, ultra-wide, macro mode, portrait, ai scene recognition, night mode, hdr, pro mode | 8MP front camera16.58 centimeters (6.53 inch) FHD+ multi-touch capacitive touchscreen with 2340 x 1080 pixels resolution,394 ppi pixel density and 19.5: 9 aspect ratio Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 512GB | Dual SIM + Dedicated SD card slot Android v10 operating system with upto 2.0GHz clock speed Qualcomm Snapdragon 662 octa core processor."
+    },
+    {
+      "name": "OPPO A15",
+      "category": "Mobiles",
+      "productId": "OPPO_A15_0125",
+      "description": "13MP main camera + 2MP depth camera + 2MP macro lens AI triple primary camera with photo, video, panoramic, portrait, time-lapse | 5MP AI beautification front camera 16.55 centimeters (6.52 inch) HD+ multi-touch capacitive touchscreen with 1600 x 720 pixels resolution, 269 ppi pixel density and 16.7M color support | Rear fingerprint sensor + AI face unlock | Eye comfort - Filters blue light to reduce damage to the eyes Memory, Storage & SIM: 3GB RAM | 32GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G)"
+    },
+    {
+      "name": "Lenovo IdeaPad S540",
+      "category": "Laptops",
+      "productId": "Lenovo_S540",
+      "description": "Processor: 10th Gen Intel Core i5 (i5-10210U) | Speed: 1.6 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 6MB Cache      OS: Pre-Loaded Windows 10 Home with Lifetime Validity      Pre-Installed: MS Office Home and Student 2019      Memory and Storage: 8GB RAM DDR4 (4GB+4GB), Upgradable up to 12GB | 1TB HDD + 256GB SSD."
+    },
+    {
+      "name": "ASUS ZenBook 14",
+      "category": "Laptops",
+      "productId": "Lenovo_ZenBook_14",
+      "description": "Processor: 11th Gen Intel Core i7-1165G7, 2.8 GHz Base Speed, Up to 4.7 GHz Turbo Boost Speed, 4 Cores, 8 Threads, 12MB Cache      Memory & Storage: 16GB LPDDR4X onboard 4267MHz RAM with | Storage: 512GB M.2 NVMe PCIe 3.0 SSD       Graphics: Integrated Intel Iris Xᵉ Graphics      Display: 14-inch LED-backlit Full HD (1920 x 1080), 16:9, anti-glare Panel, 300nits brightness, 100% sRGB, 4-sided NanoEdge design with up to 90% screen-to-body ratio, IPS-level wide-view technology      Software Included: Pre-installed MS Office Home and Student 2019, McAfee Anti-Virus with 1-year validity | Operating System: Pre-loaded Windows 10 Home with lifetime validity"
+    },
+    {
+      "name": "Sonata NL8976YM06W",
+      "category": "Watches",
+      "productId": "Sonata_NL8976YM06W",
+      "description": "Dial Color: Gold, Case Shape: Round      Band Color: Gold, Band Material: Stainless Steel      Watch Movement Type: Quartz, Watch Display Type: Analog      Warranty type: Manufacturer; 12 Months Manufacturer Warranty      Remove plastic at crown to start the watch"
+    },
+    {
+      "name": "Casio Enticer",
+      "category": "Watches",
+      "productId": "Casio_Enticer_1335D",
+      "description": "Dial Color: Blue, Case Shape: Round, Dial Glass Material: Mineral      Band Color: Silver, Band Material: Stainless Steel Watch Movement Type: Quartz, Watch Display Type: Analog     Case Material: Metal, Case Diameter: 38 millimeters Water Resistance Depth: 50 meters, Fold-Over Clasp with Safety       2 years domestic warranty      Recommended for customers looking for a small dial sized watches"
+    },
+    {
+      "name": "Fastrack NL3084SM02",
+      "category": "Watches",
+      "productId": "Fastrack_NL3084SM02",
+      "description": "Dial Color: Grey, Case Shape: Round. The case thickness is 11.90 mm and the case length is 53.2 mm Band Color: Silver, Band Material: Stainless Steel      Watch Movement Type: Quartz, Watch Display Type: Analog      24 Months Manufacturer Warranty      Water Resistance: 3 Meters      Remove plastic at crown to start the watch      Recommended for customers looking for a large dial sized watches"
+    },
+    {
+      "name": "Titan 90102SL03",
+      "category": "Watches",
+      "productId": "Titan_90102SL03",
+      "description": "Dial Color: Grey, Case Shape: Round. The case thickness is 11.90 mm and the case length is 53.2 mm Band Color: Silver, Band Material: Stainless Steel      Watch Movement Type: Quartz, Watch Display Type: Analog      24 Months Manufacturer Warranty      Water Resistance: 3 Meters      Remove plastic at crown to start the watch      Recommended for customers looking for a large dial sized watches"
+    }
+    ]
+}

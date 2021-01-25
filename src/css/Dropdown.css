@@ -1,0 +1,13 @@
+.Dropdown {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 40%;
+}
+.categoryText {
+    margin-right: 20px;
+    font-size: 20px;
+}
+.selectWrapper {
+    width: 100%;
+}
